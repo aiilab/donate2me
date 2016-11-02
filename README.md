@@ -7,6 +7,8 @@
   /script.js:8  `var ppbusiness	=	"你的 PayPal 账号";  //建议用Unicode`
 
   /index.html:37 `<input id="btc-key" type="text" value="比特币账号" readonly="readonly">`
+  
+  /index.html: `添加自己的github账号`
 
 #### 针对不同项目可以直接在 URL 加入项目参数和金额，不过仅仅作用于 PayPal 方式.
 
